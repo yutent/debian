@@ -14,7 +14,7 @@
 
 ### 系统
 **debian sid**
-- 内核: 5.18.0-2-amd64
+- 内核: ~~5.18.0-2-amd64~~ 5.15.0-amd64
 - 固件包: firmware-2022.6.10
 - WM: ~~i3 v4.20.1~~ openbox v3.6.1
 - DM: lightdm
